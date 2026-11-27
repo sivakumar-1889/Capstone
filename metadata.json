@@ -1,0 +1,8 @@
+{
+  "name": "Quizora",
+  "description": "Turn what you know into what you can prove. AI-powered quiz generation, interactive practice, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
